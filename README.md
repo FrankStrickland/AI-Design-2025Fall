@@ -9,5 +9,5 @@ The config info about this training is in the **config** foler.
 
 The **mnt** folder contains all of results.
 
-The number of epoch I set is 100, hence the original model folder is very huge, so I just upload the final model.
+The number of epoch I set is 100, hence the original model folder is very huge, so I didn't upload it.
 
