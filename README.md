@@ -1,4 +1,4 @@
-# AI-Design-2025Fall
+# AI-Design-25Fall
 pj-stage 1
 
 This a GPT-2 model training project using RTX4090.
